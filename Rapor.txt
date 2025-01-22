@@ -1,0 +1,13 @@
+İlk başta payton dosyası oluşturuldu ve daha sonra içinde "Hello World!" yazıldı.
+
+Ardından git hub'da repo oluşturulup; git hub'a, git komutlarını kullanılarak gönderildi.
+
+Daha sonra git dosya silinip, git clone'u kullanarak tekrardan bilgisayara çekildi.
+
+Daha sonra python kullanarak hesap makinesi için gerekli kodlar yazıldı.
+
+Sonra git hub'a gönderildi kodlar.
+
+Debug işlemi koddaki belli yerlere breakpoint  gerçekleştirildi.
+
+Proje'de basit bir şekilde bakıldığında olası bir hata ile karşılaşılmadı.
